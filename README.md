@@ -6,7 +6,8 @@ Application:
  - Simple and intuitive to use!
 
 User instructions:
-1. Open the folder "dist".
+1. Open the folder "dist".![dist](https://github.com/cyberdvitamin/Arduino_GIF_Convertor/assets/91136019/b586b1a0-507e-44b9-bd2b-a79467d85086)
+
 2. Here you can find ".idea", "display_gif" and "main.exe". We are going to use "main.exe" so double click on that.
 3. We are being presented with a simple to use UI (user interface). Here we can find the option to select a "GIF" using the button "Browse" that will let you access files in your computer.
 4. After selecting the "GIF" or the image you are being presented with new information of the splitting. You will see the numbers of frames that it will be split into and a recommended frame delay.
